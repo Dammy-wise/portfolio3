@@ -8,7 +8,7 @@ export default function Hero() {
       element.scrollIntoView({ behavior: "smooth" });
     }
   };
-  
+
   return (
     <section id="home" className="hero">
       <div className="hero-inner">
@@ -28,7 +28,7 @@ export default function Hero() {
               </button>
           <span className="hero-sub">
             <p className="hero-sub-right-fixed">
-              Web Developer 
+              Game Developer 
             </p>
             <p className="hero-sub-right2">
               <span>I handle the development, deployment</span>
